@@ -1,0 +1,49 @@
+Í git, vertu viss um að þú sért á þínu branch
+
+git checkout <mitt branch>
+
+gerðu 
+
+git status
+
+Skoðaðu upplýsingarnar á skjánum. 
+
+Breyttu stagetest.txt skránni og bættu við í nýjar línur næstu tölum þannig hún líti svona út
+
+1
+2
+3
+4
+5
+6
+
+Vistaðu skránna.
+
+Hún er núna óhrein og git veit af því. Hún ætti að vera undir "untracked files"
+
+Gerðu git status aftur og skoðaðu upplýsingarnar á skjánnum.
+
+gerðu 
+
+git add Verkefni1/stagetest.txt
+
+git add sér um að setja breytingarnar í stage stöðu. Þetta þíðir að snapshot af skránni hefur verið vistað.
+
+opnaðu skránna aftur og bættu við næstu tölustöfum í rununni þannig a hún líti svona út:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+og vistaðu hana. Gerðu git status aftur. Þú ættir að sjá skránna bæði í undtracked og changes to be commited.
+
+
+
+
+
