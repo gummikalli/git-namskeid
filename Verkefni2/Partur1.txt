@@ -1,0 +1,28 @@
+Í git, vertu viss um að þú sért á þínu branch
+
+git checkout <mitt branch>
+
+Settu nafnið þitt hér
+
+<nafnið þitt hér>
+
+gerðu 
+
+git status
+
+gerðu 
+
+touch .gitignore
+
+opnaðu skránna .gitignore í text editior að eigin vali
+
+bættu inn eftirfarandi línu
+
+Partur1.txt
+
+gerðu 
+
+git status
+
+Hver er munurinn milli git status skipana?
+
