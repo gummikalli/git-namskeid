@@ -16,9 +16,11 @@ touch .gitignore
 
 opnaðu skránna .gitignore í text editior að eigin vali
 
-bættu inn eftirfarandi línu
+bættu inn eftirfarandi línu (nafnið á þessari skrá)
 
 Partur1.txt
+
+Opnaðu stagetest.txt og lagaðu þannig að 34 verði bara 3. 
 
 gerðu 
 
