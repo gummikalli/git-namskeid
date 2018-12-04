@@ -1,0 +1,44 @@
+Í þínu branch gerðu git status og skoðaðu hvað þú ert mörgum commits á undan remote.
+
+Hingað til hefur þú aðeins verið að skila upplýsingum í þína hyrslu en ekki á GitHub.
+
+gerðu
+
+git push
+
+Búðu til nýja möppu og gerðu 
+
+git clone https://github.com/gummikalli/git-namskeid.git 
+
+MIKILVÆGT
+
+Til að sækja þitt branch gerðu
+
+git checkout <nafnið á þínu branch>
+
+Ef þú manst það ekki getur þú leitað með
+
+git branch
+
+Opnaðu git Bash með því að hægrismella einhverstaðar inni í möppunni sem var sótt og velja Git Bash Here
+
+Nú ættir þú að vera með tvö git bash opin á sama repo. Undir venjulegum kringumstæðum væri annað þitt vinnusvæði en hitt mótaðili.
+
+Opnaðu skránna ConflictedFile.txt í nýju verkefni3 möppunni.
+
+Bættu við 0 aftast í rununa.
+
+gerðu
+
+git add .
+git commit -m "Bætti 0 aftast í rununa"
+git push
+
+Farðu í gömlu möppuna og gerðu það sama nema núna bætir þú við 10
+
+git add .
+git commit -m "Bætti 10 aftast í rununa"
+git push
+
+
+
